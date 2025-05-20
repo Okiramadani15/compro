@@ -1,4 +1,4 @@
-# Copyright (c) 2022 - Pustaka Koding - Indra Styawantoro. All rights reserved.
+<!-- # Copyright (c) 2022 - Pustaka Koding - Indra Styawantoro. All rights reserved. -->
 
 
 # Permissions

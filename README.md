@@ -1,11 +1,35 @@
-# Template Website Company Profile Digital Creative
+# Sinergy Digital Creative
 
-Template website profil perusahaan digital dengan tampilan modern dan profesional.
+Website company profile untuk Sinergy Digital Creative.
 
--	Dibangun menggunakan framework CSS Bootstrap 5.
--	Tampilan modern dan profesional.
--	Tampilan yang responsif di semua ukuran layar.
--	Dibangun dengan pengkodean yang rapi sehingga mudah dipahami.
-- Tampilan yang mudah diubah dan disesuaikan.
+## Deployment ke Vercel
 
-![pustakakoding-template-website-company-profile-digital-creative](https://user-images.githubusercontent.com/88012593/207638412-bbfa07d1-7bc2-4f0a-8b3e-4b439adc4293.png)
+Untuk men-deploy website ini ke Vercel, ikuti langkah-langkah berikut:
+
+1. Pastikan Anda memiliki akun di [Vercel](https://vercel.com)
+2. Install Vercel CLI:
+   ```
+   npm install -g vercel
+   ```
+3. Login ke Vercel dari terminal:
+   ```
+   vercel login
+   ```
+4. Deploy project:
+   ```
+   vercel
+   ```
+5. Untuk deployment production:
+   ```
+   vercel --prod
+   ```
+
+## Atau Deploy Langsung dari GitHub
+
+1. Push project ke repository GitHub Anda
+2. Login ke [Vercel](https://vercel.com)
+3. Klik "New Project"
+4. Import repository GitHub Anda
+5. Klik "Deploy"
+
+Website akan otomatis di-deploy dan tersedia di URL yang disediakan oleh Vercel.

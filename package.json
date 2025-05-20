@@ -1,0 +1,12 @@
+{
+  "name": "sinergy-digital-creative",
+  "version": "1.0.0",
+  "description": "Company Profile Website for Sinergy Digital Creative",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
